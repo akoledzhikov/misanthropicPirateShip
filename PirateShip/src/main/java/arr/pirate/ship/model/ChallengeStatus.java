@@ -1,0 +1,5 @@
+package arr.pirate.ship.model;
+
+public enum ChallengeStatus {
+	PENDING, ACTIVE, REJECTED, EVALUATION, FAILED_NO_TRY, FAILED, SUCCESS, PUBLIC_EVALUATION, PUBLIC_SUCCESS, PUBLIC_FAIL
+}
